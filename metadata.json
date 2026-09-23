@@ -1,0 +1,6 @@
+{
+  "name": "CatchMyBus Comparison",
+  "description": "Side-by-side comparison studio for CatchMyBus (Old vs New) with interactive device frames, split layouts, and live previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
